@@ -441,16 +441,7 @@ Website SMK Negeri 1 Cilegon berhasil dibuat menggunakan Laravel dan MySQL. Webs
 
 ## Identitas Pembuat
 
-Nama Kelompok: [Isi nama kelompok]
+Nama Kelompok: Muhammad Bagus Pambudi
+Kelas: RKS 25
 
-Anggota Kelompok:
-
-1. [Nama anggota 1]
-2. [Nama anggota 2]
-3. [Nama anggota 3]
-
-Kelas: [Isi kelas]
-
-Mata Kuliah: Pengembangan Website
-
-Dosen Pengampu: [Isi nama dosen]
+Mata Kuliah: Pemprograman Web
